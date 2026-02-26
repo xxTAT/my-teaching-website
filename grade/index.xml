@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grades on 我的教学网站</title>
+    <link>https://example.org/grade/</link>
+    <description>Recent content in Grades on 我的教学网站</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/grade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一年级</title>
+      <link>https://example.org/grade/first-grade/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/grade/first-grade/</guid>
+      <description>&lt;h1 id=&#34;第一年级-ppt-列表&#34;&gt;第一年级 PPT 列表&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../ppt/first-lesson/&#34;&gt;第一课：基础知识讲解&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../ppt/second-lesson/&#34;&gt;第二课：进阶学习&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;教学目标&#34;&gt;教学目标&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;帮助学生掌握基础概念&lt;/li&gt;&#xA;&lt;li&gt;提高学生学习兴趣&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

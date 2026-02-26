@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PPT on 我的教学网站</title>
+    <link>https://example.org/tags/ppt/</link>
+    <description>Recent content in PPT on 我的教学网站</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Feb 2026 19:36:36 +0800</lastBuildDate>
+    <atom:link href="https://example.org/tags/ppt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>单元1</title>
+      <link>https://example.org/unit/unit-1/</link>
+      <pubDate>Thu, 26 Feb 2026 19:36:36 +0800</pubDate>
+      <guid>https://example.org/unit/unit-1/</guid>
+      <description>&lt;h1 id=&#34;单元1-ppt-列表&#34;&gt;单元1 PPT 列表&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../ppt/first-lesson&#34;&gt;第一课：基础知识讲解&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../ppt/second-lesson&#34;&gt;第二课：进阶学习&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
