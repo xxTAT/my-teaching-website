@@ -13,3 +13,9 @@ draft = false
 
 - 帮助学生掌握基础概念
 - 提高学生学习兴趣
+
+# 学科分类
+
+[数学](/my-teaching-website/)
+[语文](/my-teaching-website/)
+[英语](/my-teaching-website/)
