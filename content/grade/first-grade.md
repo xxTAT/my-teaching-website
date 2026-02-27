@@ -4,7 +4,7 @@ date = "2026-02-26"
 draft = false
 +++
 
-# 第一年级 PPT 列表
+# 一年级 PPT 列表
 
 1. [第一课：基础知识讲解](../ppt/first-lesson/)
 2. [第二课：进阶学习](../ppt/second-lesson/)
