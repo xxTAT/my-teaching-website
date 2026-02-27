@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unit on 我的教学网站</title>
-    <link>/categories/unit/</link>
+    <link>/my-teaching-website/categories/unit/</link>
     <description>Recent content in Unit on 我的教学网站</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 26 Feb 2026 19:36:36 +0800</lastBuildDate>
-    <atom:link href="/categories/unit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/my-teaching-website/categories/unit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>单元1</title>
       <link>/unit/unit-1/</link>
