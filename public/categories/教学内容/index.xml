@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教学内容 on 我的教学网站</title>
-    <link>https://example.org/categories/%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9/</link>
+    <link>http://localhost:1313/categories/%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9/</link>
     <description>Recent content in 教学内容 on 我的教学网站</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 26 Feb 2026 19:34:14 +0800</lastBuildDate>
-    <atom:link href="https://example.org/categories/%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Lesson</title>
-      <link>https://example.org/ppt/first-lesson/</link>
+      <link>http://localhost:1313/ppt/first-lesson/</link>
       <pubDate>Thu, 26 Feb 2026 19:34:14 +0800</pubDate>
-      <guid>https://example.org/ppt/first-lesson/</guid>
+      <guid>http://localhost:1313/ppt/first-lesson/</guid>
       <description>&lt;h1 id=&#34;教学重点&#34;&gt;教学重点&lt;/h1&gt;&#xA;&lt;p&gt;本课的教学重点是通过演示幻灯片来帮助学生理解基础概念，重点讲解以下几个方面：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;主题1：基础知识讲解&lt;/li&gt;&#xA;&lt;li&gt;主题2：概念阐释&lt;/li&gt;&#xA;&lt;li&gt;主题3：案例分析&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;课件逻辑&#34;&gt;课件逻辑&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;开场&lt;/strong&gt;：介绍课程背景，激发学生兴趣&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;主体&lt;/strong&gt;：深入讲解教学内容，结合图表和视频&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;总结&lt;/strong&gt;：归纳总结，强化记忆点&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;附件&#34;&gt;附件&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://example.com/first-lesson.pptx&#34;&gt;教学PPT下载链接&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
