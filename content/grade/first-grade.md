@@ -16,6 +16,6 @@ draft = false
 
 # 学科分类
 
-[数学](/my-teaching-website/)
-[语文](/my-teaching-website/)
-[英语](/my-teaching-website/)
+1.[数学](/my-teaching-website/)
+2.[语文](/my-teaching-website/)
+3.[英语](/my-teaching-website/)
