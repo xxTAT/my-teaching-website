@@ -6,7 +6,7 @@ draft: false
 
 # 年级列表
 
-欢迎来到年级页面，选择一个年级进行学习：
+欢迎来到年级页面，选择一个年级进行检索：
 
 - [一年级](/my-teaching-website/grade/first-grade/)
 - [二年级](/my-teaching-website/grade/second-grade/)
