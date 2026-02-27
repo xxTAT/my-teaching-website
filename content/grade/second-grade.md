@@ -15,8 +15,8 @@ draft: false
 
 ## 课程内容
 
-- 数学
-- 语文
-- 英语
+[数学](/my-teaching-website/)
+[语文](/my-teaching-website/)
+[英语](/my-teaching-website/)
 
 [返回年级列表](/my-teaching-website/grade/)
